@@ -3,4 +3,4 @@ Target metric - [recall@10](https://medium.com/@m_n_malaeb/recall-and-precision-
 * [Node2Vec + KDTree baseline](node2vec_baseline.ipynb) (only adjacency)
   * Public: 0.0028328611898017
 * [ALS](als.ipynb) (adjacency with h weigths)
-  * Public: 0.08473009128108278
+  * Public: 0.09346474661630469
