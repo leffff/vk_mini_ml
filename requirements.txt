@@ -6,3 +6,4 @@ matplotlib
 plotly
 scikit-learn
 node2vec
+implicit
