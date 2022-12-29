@@ -4,5 +4,5 @@ Target metric - [recall@10](https://medium.com/@m_n_malaeb/recall-and-precision-
   * Public: 0.0028328611898017
 * [ALS](als.ipynb) (adjacency matrix with h weigths)
   * Public: 0.09346474661630469
-* [ALS](undirectd_als.ipynb) (undirected adjacency matrix with h weigths)
+* [ALS](undirected_als.ipynb) (undirected adjacency matrix with h weigths)
   * Public: 0.17478968151772684
